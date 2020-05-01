@@ -31,3 +31,9 @@ For the purpose of this exploration study, I will only look at the data between 
 * `food_com-vegetarian-analysis.ipynb` — Python 3 Jupyter Notebook exploring the dataset.
 * `/input/RAW_recipes.csv` — food.com recipes
 * `/input/RAW_interactions.csv` — food.com reviews and ratings
+
+## Libraries used
+* `numpy` and `pandas` for data analysis and manipulation
+* `matplotlib`, `matplotlib_venn` and `seaborn` for visualizations
+* `ast` to evaluate a stringified array into a Python list
+
