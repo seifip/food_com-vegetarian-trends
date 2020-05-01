@@ -61,6 +61,6 @@ Indeed, we can see that from 2014 to 2017, the number of vegetarian contributors
 ![](./contributors-by-year.png)
 
 ## Conclusion
-From our quick look at the food.com data, we can see that the growing vegetarian trend has had no positive impact on food.com, and might have even had a negative impact on their contributor acqusition.
+From our quick look at the food.com data, we can see that the growing vegetarian trend has had no positive impact on food.com, and might have even had a negative impact on their contributor acquisition.
 
 Whatever the case, if the data is correct, the company has much bigger things to worry about, from free-falling usage, to steadily deteriorating contributor retention rates.
