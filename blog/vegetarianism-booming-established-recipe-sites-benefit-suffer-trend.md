@@ -1,3 +1,5 @@
+_This is a Udacity Data Science Nanodegree project._
+
 # Vegetarianism is booming. Will established recipe sites benefit or suffer from this trend?
 The interest in vegetarian and vegan food has grown steadily over the past two decades.
 
