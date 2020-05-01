@@ -8,6 +8,7 @@ The number of searches for 'veganism' in the UK has [increased by 900% from 2009
 Below, I will explore whether this vegetarian trend extends to users of [food.com](https://www.food.com/), one of the leading online recipe websites.
 
 ![Vegan dogs](./vegan-dogs.jpg)
+_Photo by [Darya Tryfanava](https://unsplash.com/photos/K457r2qDHfk)_
 
 ## Unpredecented data
 Bodhisattwa Prasad Majumder, Shuyang Li, Jianmo Ni, and Julian McAuley of University of California, San Diego crawled 180K+ recipes and 700K+ reviews from food.com, covering 18 years of user interactions on one of the leading online recipe repositories.
