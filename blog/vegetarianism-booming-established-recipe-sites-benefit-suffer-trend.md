@@ -54,7 +54,7 @@ Interestingly, the average rating for vegetarian recipes was roughly the same un
 ![](./ratings_avg.png)
 
 ## Contributor acquision
-The alternative explanation for the drop in the share of new vegetarian recipes is that food.com acquires non-vegetarian contributors at a faster rate that non-vegetarian authors.
+The alternative explanation for the drop in the share of new vegetarian recipes is that food.com acquires non-vegetarian contributors at a faster rate than vegetarian authors.
 
 Indeed, we can see that from 2014 to 2017, the number of vegetarian contributors has dropped at a faster rate than that of non-vegetarian contributors.
 
