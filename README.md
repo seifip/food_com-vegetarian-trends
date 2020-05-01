@@ -26,3 +26,8 @@ I will be using the food.com dataset by Bodhisattwa Prasad Majumder, Shuyang Li,
 The dataset consists of 180K+ recipes and 700K+ recipe reviews covering 18 years of user interactions and uploads on food.com (formerly GeniusKitchen).
 
 For the purpose of this exploration study, I will only look at the data between 2008 and 2017.
+
+## Files
+* `food_com-vegetarian-analysis.ipynb` — Python 3 Jupyter Notebook exploring the dataset.
+* `/input/RAW_recipes.csv` — food.com recipes
+* `/input/RAW_interactions.csv` — food.com reviews and ratings
