@@ -24,16 +24,16 @@ The first thing we can immediately see from the data is that there has been a ra
 Assuming that the data set isn't missing information for some of the more recent years, this decline is somewhat perplexing, as food.com is the second largest recipe website, and internet usage overall has [increased by 10 percentage points](https://www.pewresearch.org/fact-tank/2018/09/28/internet-social-media-use-and-device-ownership-in-u-s-have-plateaued-after-years-of-growth/) in the last decade.
 
 Nevertheless, there could be a number of explanations:
-* There could be a saturation of recipes on the website. Everything there is to cook is already covered.
+* A saturation of recipes on the website. Everything there is to cook is already covered.
 * Related to the preciding point, food.com might have stopped investing in attracting new contributors.
-* Users have shifted their recipe consumption to mobile apps by other proiders (food.com does not offer one).
+* Users have shifted their recipe consumption to mobile apps by other providers (food.com does not offer one).
 * Most prolific recipe authors launched their own recipe blogs, or moved to social media.
 
 We unfortunately don't have the data or space to answer this question in this blog post, but a quick cohort analysis may give us some additional indication into the health of the food.com busines.
 
 ![](./cohorts.png)
 
-Above, we can see that contributor retention at food.com has deteriorated significantly over the years, indicating that new customers may be less loyal to the food.com brand than they used to be, or less satisfied with their (mobile?) offering.
+Above, we can see that contributor retention at food.com has deteriorated significantly over the years, indicating that new contributors may be less loyal to the food.com brand than they used to be, or less satisfied with their (mobile?) offering.
 
 Whatever the reason for the decline, let's see whether it has had an equal impact on vegetarian and non-vegetarian recipes.
 
