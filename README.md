@@ -28,7 +28,11 @@ The dataset consists of 180K+ recipes and 700K+ recipe reviews covering 18 years
 For the purpose of this exploration study, I will only look at the data between 2008 and 2017.
 
 ## Files
+### In this repository
 * `food_com-vegetarian-analysis.ipynb` — Python 3 Jupyter Notebook exploring the dataset.
+
+### Kaggle
+The following two data files were too big to upload to GitHub and can be accessed from [Kaggle](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions).
 * `/input/RAW_recipes.csv` — food.com recipes
 * `/input/RAW_interactions.csv` — food.com reviews and ratings
 
