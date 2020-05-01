@@ -29,7 +29,8 @@ For the purpose of this exploration study, I will only look at the data between 
 
 ## Files
 ### In this repository
-* `food_com-vegetarian-analysis.ipynb` — Python 3 Jupyter Notebook exploring the dataset.
+* `food_com-vegetarian-analysis.ipynb` — Python 3 Jupyter Notebook exploring the dataset
+* `/blog/vegetarianism-booming-established-recipe-sites-benefit-suffer-trend.md` — blog post summarizing the findings
 
 ### Kaggle
 The following two data files were too big to upload to GitHub and can be accessed from [Kaggle](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions).
